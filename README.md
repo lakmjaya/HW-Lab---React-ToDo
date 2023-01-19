@@ -1,4 +1,3 @@
-# Express Todo App
-
-This app works best with [react-todo28](https://github.com/tishana/reactTodo28) 
+# React Todo App - front end
+(https://github.com/lakmjaya/HW-Lab---React-ToDo-Front-End.git)
 
